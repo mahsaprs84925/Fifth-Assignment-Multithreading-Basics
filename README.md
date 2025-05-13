@@ -75,7 +75,7 @@ public class StartVsRun {
 **Questions:**
 
 - What output do you get from the program? Why?
-
+q
 - What’s the difference in behavior between calling `start()` and `run()`?
 
 ---  
